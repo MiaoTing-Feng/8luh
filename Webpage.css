@@ -1,0 +1,32 @@
+body {
+  background-color:#b8dbd3;
+}
+
+h1 {
+  color:#68c4af;
+    text-align: center;
+  padding: 1.8em;
+  font-style: bold;
+  font-family: "arial";
+  background-color: #f7e7b4;
+    border-radius: 1em;
+  text-decoration: underline; 
+  border: 5px solid white;
+}
+
+blockquote {
+  color: #68c4af;
+    font-size: 200%;
+  text-align: center;
+}
+
+p {
+  color: #f2f6c3;
+    padding: 1em;
+  font-style: italic;
+  font-family: "arial";
+  border-radius: 1em;
+  text-align: center;
+  background-color: #68c4af;
+   border: 2px solid white;
+}
